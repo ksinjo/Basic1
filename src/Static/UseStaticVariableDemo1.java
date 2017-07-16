@@ -1,4 +1,4 @@
-package com.beardog.Static;
+package Static;
 
 /*
  *  Static 변수를 사용 예제 

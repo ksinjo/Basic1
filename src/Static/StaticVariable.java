@@ -1,4 +1,4 @@
-package com.beardog.Static;
+package Static;
 
 /*
  	Static 변수에 접근하는 방법 
