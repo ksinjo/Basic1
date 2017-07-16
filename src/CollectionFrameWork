@@ -1,0 +1,12 @@
+  1. Collection  
+   		1)  List와 Set을 가진다. 
+   		
+   			List  ------  LinkedList 
+   		    List  ------  Stack
+   		    List  ------  Vector 
+   		    List  ------  ArrayList 
+   		           
+   	   		Set   ------ HashSet 
+   	   		Set	  ------ SortedSet    
+   	   		
+   	   		
