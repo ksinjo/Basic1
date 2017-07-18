@@ -1,0 +1,26 @@
+참고: http://huiyu.tistory.com/entry/1-Strategy-Pattern%EC%A0%84%EB%9E%B5%ED%8C%A8%ED%84%B4
+http://huiyu.tistory.com/entry/1-Strategy-Pattern%EC%A0%84%EB%9E%B5%ED%8C%A8%ED%84%B4
+
+ Strategy Pattern 
+ 
+ Definition : 여러  알고리즘을 하나의 추상적인  접근점을 만들어 접근점에서 
+   			   서로 교환 가능하도록 하는 패턴  
+
+
+ advantages: 
+   	+ 기능에 대한 선언과 구현 분리
+ 	+ 기능을 사용 통로 
+
+Function 
+ 	delegate 
+
+  
+
+
+
+
+
+
+
+
+
