@@ -10,3 +10,8 @@
    	   		Set	  ------ SortedSet    
    	   		
    	   		
+   	List 와 Set container 차이 
+   	
+   	   List : index O 존재. 인덱스      
+   	   Set :  순서가 없다. index가 존재하지 않음.  	  
+   	  	

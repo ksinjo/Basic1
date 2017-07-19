@@ -8,7 +8,7 @@ public class CollectionEx1 {
 
 	public static void main(String[] args){
 		ArrayList<String> al = new ArrayList<String>();
-		al.add("first");
+		al.add("W");
 		al.add("Second");
 		al.add("third");
 		al.add("third");

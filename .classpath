@@ -2,5 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/eclipse/BasicStateMent/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/BasicStateMent/geronimo-stax-api_1.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/BasicStateMent/ooxml-schemas-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/BasicStateMent/poi-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/BasicStateMent/poi-contrib-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/BasicStateMent/poi-ooxml-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/BasicStateMent/poi-scratchpad-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/BasicStateMent/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
